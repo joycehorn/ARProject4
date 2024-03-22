@@ -15,6 +15,12 @@ AR-Rehab is designed for individuals undergoing rehabilitation therapy for injur
 3. Design and implement a user-friendly interface for the AR application, including exercise selection and feedback visualization.
 4. Evaluate the effectiveness and usability of AR-Rehab.
 
+## Timeline:
+- **March 21, 2024**: Project Description due. Setup development environment, research Leap Motion hand tracking integration.
+- **April 11, 2024**: Project Milestone due by class time. Implement hand tracking and basic exercise visualization.
+- **April 25, 2024**: Develop motion analysis algorithms.
+- **May 2, 2024 (by 3 p.m.)**: Project Deliverable due. Design and implement user interface elements for exercise selection and feedback.
+
 ## Deliverables:
 The final deliverables for AR-Rehab will include:
 - A video demonstration showcasing the application's features and functionality.
